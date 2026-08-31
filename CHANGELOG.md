@@ -314,7 +314,7 @@ Unreleased entries are grouped by completion date, newest first.
 - Analysis and injector calculations are descriptive aids, not automatic diagnosis, pass/fail, tuning, or machine-control decisions.
 - Independent clean-machine coverage, Windows 10 acceptance, code signing, legal review, and production-release approval remain incomplete.
 
-[Unreleased]: https://github.com/nbjelanovic/HuskyPerformance-Releases/compare/v0.9.1-public-demo...HEAD
-[0.9.1]: https://github.com/nbjelanovic/HuskyPerformance-Releases/releases/tag/v0.9.1-public-demo
-[0.9.0]: https://github.com/nbjelanovic/HuskyPerformance-Releases/releases/tag/v0.9.0-public-demo
-[0.8.99]: https://github.com/nbjelanovic/HuskyPerformance-Releases/releases/tag/v0.8.99-public-demo
+[Unreleased]: https://github.com/Limited-Underground/Husky-Performance-Releases/compare/v0.9.1-public-demo...HEAD
+[0.9.1]: https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo
+[0.9.0]: https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.0-public-demo
+[0.8.99]: https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.8.99-public-demo

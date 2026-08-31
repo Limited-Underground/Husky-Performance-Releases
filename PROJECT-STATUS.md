@@ -1,4 +1,4 @@
-# Husky Performance Project Status
+# Husky Performance by Limited Underground — Project Status
 
 _Last updated: August 13, 2026_
 
@@ -10,7 +10,7 @@ Husky Performance is proprietary, pre-release Windows software for professional 
 
 ## Quick links
 
-- [Download Husky Performance 0.9.1 Public Demonstration Preview](https://github.com/nbjelanovic/HuskyPerformance-Releases/releases/tag/v0.9.1-public-demo)
+- [Download Husky Performance 0.9.1 Public Demonstration Preview](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo)
 - [Read the detailed public changelog](CHANGELOG.md)
 - [Learn about becoming a testing partner](TESTING-PARTNERS.md)
 - [Follow Husky Performance on Facebook](https://www.facebook.com/HuskyPerformanceApp)

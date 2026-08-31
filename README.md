@@ -1,6 +1,6 @@
-# Husky Performance — Public Releases
+# Husky Performance by Limited Underground — Public Releases
 
-This repository is the official public download and release-information location for **Husky Performance**, a local-first Windows application being developed for professional automotive performance shops.
+This repository is the official public download and release-information location for **Husky Performance by Limited Underground**, a local-first Windows application being developed for professional automotive performance shops.
 
 > **Pre-release status:** Husky Performance is under active development and is not yet intended or approved for production shop use.
 >
@@ -8,7 +8,7 @@ This repository is the official public download and release-information location
 
 ## Start here
 
-- **[Download the current preview](https://github.com/nbjelanovic/HuskyPerformance-Releases/releases/tag/v0.9.1-public-demo)** — Husky Performance 0.9.1 Public Demonstration Preview
+- **[Download the current preview](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo)** — Husky Performance 0.9.1 Public Demonstration Preview
 - **[Project Status](PROJECT-STATUS.md)** — what is available now, what is being validated, and what remains before production
 - **[Public Changelog](CHANGELOG.md)** — exact numbered-release contents and historical changes
 - **[Testing Partners](TESTING-PARTNERS.md)** — how established performance shops can provide practical feedback
@@ -35,7 +35,7 @@ Public bundle SHA-256:
 
 `F705A83F8E84B7E5EB8A645449DD782879F8CD12129EC948B82324947E0A26DC`
 
-Download only from this repository's [Releases](https://github.com/nbjelanovic/HuskyPerformance-Releases/releases) page and compare the ZIP to the published `.sha256` file.
+Download only from this repository's [Releases](https://github.com/Limited-Underground/Husky-Performance-Releases/releases) page and compare the ZIP to the published `.sha256` file.
 
 ## Professional testing partners wanted
 
@@ -61,7 +61,7 @@ Husky Performance is proprietary software. No open-source license is granted by 
 
 ## Official links
 
-- [Current 0.9.1 release](https://github.com/nbjelanovic/HuskyPerformance-Releases/releases/tag/v0.9.1-public-demo)
+- [Current 0.9.1 release](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo)
 - [Project Status](PROJECT-STATUS.md)
 - [Changelog](CHANGELOG.md)
 - [Testing Partners](TESTING-PARTNERS.md)
