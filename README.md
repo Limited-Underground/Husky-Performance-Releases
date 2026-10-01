@@ -31,7 +31,11 @@ Use copied logs and fictional or test customer information only. Windows may sho
 
 The release contains exactly one MSI, one compact ZIP, and one checksum sidecar.
 
-Public bundle SHA-256:
+MSI installer SHA-256 (`Husky-0.9.1-Public-Demonstration-Preview-win-x64.msi`):
+
+`4D687B8F69E5A3634C9E897A387725EEB149C1103197DECBEF9088348DECDAA7`
+
+Public bundle ZIP SHA-256:
 
 `F705A83F8E84B7E5EB8A645449DD782879F8CD12129EC948B82324947E0A26DC`
 
