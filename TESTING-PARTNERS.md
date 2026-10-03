@@ -4,7 +4,7 @@ Last updated: October 2, 2026
 
 ## Everyone can contribute feedback
 
-Husky Performance V1 will be a **free public test release for personal and business use**, with no purchase, subscription, activation key, or time limit. V1 itself is the test release, and users will use it at their own risk.
+Husky Performance V1 is a **free public test release for personal and business use**, with no purchase, subscription, activation key, or time limit. V1 itself is the test release; use it at your own risk.
 
 Feedback is welcome from individual users, automotive enthusiasts, and professional shops. Participation is voluntary. You do not need to qualify as a business, join a partner program, provide positive reviews, or contribute feedback to receive free V1 access.
 
@@ -12,7 +12,7 @@ The earlier qualified-business release hold and offer of complimentary Professio
 
 ## Which build is available
 
-The free 1.0.0 candidate is prepared locally for owner review and **has not been published**. The current [0.9.1 download](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo) is still the older five-day evaluation.
+**[1.0.0 Free Public Test Release](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0) is now available.** [Download the Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip). The older [0.9.1 download](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo) remains a legacy five-day evaluation.
 
 See [Project Status](PROJECT-STATUS.md) for current availability. Feedback should identify the exact version tested so results from an older build are not mistaken for V1 behavior.
 

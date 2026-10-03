@@ -2,26 +2,34 @@
 
 This repository is the official public download and release-information location for **Husky Performance**, a local-first Windows application for automotive log analysis and related shop workflows.
 
-> **Free V1 public test release:** Husky Performance V1 will be free for personal and business use, with no purchase, subscription, activation key, or time limit. V1 itself is the test release. Use it at your own risk; real-world feedback will help improve it.
+> **Free V1 public test release:** Husky Performance V1 is free for personal and business use, with no purchase, subscription, activation key, or time limit. V1 itself is the test release. Use it at your own risk; real-world feedback will help improve it.
 >
-> **Download status — October 2, 2026:** The free 1.0.0 candidate is prepared locally for owner review and has **not been published**. The available 0.9.1 download below is still the older five-day evaluation. This announcement does not remove that older build's expiry.
+> **Available now — October 2, 2026:** [Download the free 1.0.0 Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip), or read the [release notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0). The older 0.9.1 files remain available as a legacy five-day evaluation; their expiry is unchanged.
 
 ## Start here
 
-- **[Project Status](PROJECT-STATUS.md)** — the free V1 direction, current downloads, and remaining review
+- **[Download free V1: 1.0.0](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip)** — Windows x64 ZIP
+- **[Release notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0)** — package information and known limitations
+- **[Project Status](PROJECT-STATUS.md)** — the free V1 release and current limitations
 - **[Available legacy preview: 0.9.1](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo)** — the older five-day Public Demonstration Preview
 - **[Public Changelog](CHANGELOG.md)** — current direction and historical release contents
 - **[Feedback and Testing](TESTING-PARTNERS.md)** — voluntary feedback from personal users and businesses
 
 ## Free V1 and feedback
 
-The owner is bringing V1 to the best stability reasonably achievable through local testing, then making it available as a free public test release. There is no separate paid production V1 planned under this release approach.
+V1 is available as a free public test release after local stability testing. There is no separate paid production V1 planned under this release approach.
 
 Feedback is welcome from anyone who uses the software. Established shops can provide valuable workflow experience, but business qualification, outside approval, and participation in a testing program are not prerequisites for V1. Free access is not a reward for feedback or positive reviews.
 
 This direction supersedes earlier statements about a mandatory qualified-business feedback hold, paid production licensing, and complimentary Professional access. Older changelog and release entries describe the policy and packages at their publication dates.
 
 V1 remains proprietary software with private source code. Free use does not make this an open-source repository.
+
+## Free 1.0.0 download
+
+[Download the Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip). It is self-contained; no separate .NET or PowerShell installation is required. Follow the included instructions and compare the download with the checksum published on the [1.0.0 release page](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0).
+
+This is unsigned test software. Windows may show an unknown-publisher warning. Keep backups and copies of your logs, and review the release notes for current limitations before use.
 
 ## Available legacy Public Demonstration Preview
 
