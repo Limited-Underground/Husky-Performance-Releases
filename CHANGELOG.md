@@ -10,6 +10,14 @@ Unreleased entries are grouped by completion date, newest first.
 
 ## [Unreleased]
 
+### 2026-10-02 — Free V1 public test release direction
+
+- V1 itself will be the free public test release for personal and business use, with no purchase, subscription, activation key, or time limit. Users will use it at their own risk and can provide voluntary feedback.
+- This supersedes older mandatory qualified-business feedback holds, paid production licensing plans, and complimentary Professional-access offers, including those described in historical entries and release notes. There is no separate later paid production V1 under this approach.
+- A free 1.0.0 candidate is prepared locally for owner review and is not yet published. The newest public download remains the original 0.9.1 five-day evaluation; its files and expiry behavior are unchanged.
+- Updated the README, Project Status, and feedback guidance to distinguish the free V1 direction from the legacy download. Source code remains private and proprietary.
+
+
 ### 2026-08-13
 
 - Added private-development saved, pending, review-required, and defaults-review state to **Settings > Reports & Branding**. Shop identity, contact, accent, footer, technician, and logo changes remain staged until **Save Settings**; **Discard branding changes** restores the complete saved profile including its logo; and **Restore defaults for this page** stages standard Husky branding with empty shop fields, Husky blue `#00A6C7`, and no shop logo. Permanent Husky provenance remains, and neither action writes automatically.

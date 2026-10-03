@@ -1,58 +1,45 @@
-# Professional Testing Partners
+# Husky Performance — Feedback and Testing
 
-Husky Performance is looking for an established automotive performance, tuning, injector, or diesel business to complete practical testing and provide honest written workflow feedback.
+Last updated: October 2, 2026
 
-Husky 0.9.1 is the current Public Demonstration Preview. Development continues, but no later public build will be released until qualified-business feedback is received.
+## Everyone can contribute feedback
 
-## No meeting or phone call required
+Husky Performance V1 will be a **free public test release for personal and business use**, with no purchase, subscription, activation key, or time limit. V1 itself is the test release, and users will use it at their own risk.
 
-Participation is asynchronous by default. A testing partner can install the preview, work through relevant workflows on its own schedule, and send written notes, screenshots, reproducible steps, or a completed feedback package. A live sales call, demo, or scheduled meeting is not required.
+Feedback is welcome from individual users, automotive enthusiasts, and professional shops. Participation is voluntary. You do not need to qualify as a business, join a partner program, provide positive reviews, or contribute feedback to receive free V1 access.
 
-## Who I am looking for
+The earlier qualified-business release hold and offer of complimentary Professional access are superseded by free V1 access for everyone. Practical shop experience remains welcome.
 
-I am especially interested in working with an established performance business—or a small group of experienced professionals—with experience in one or more of these areas:
+## Which build is available
 
-- Gasoline performance and ECU data logging
-- Diesel performance and diagnostics
-- Dyno operation
-- Injector testing, cleaning, and service
-- Customer, vehicle, and work-order management
-- Professional report preparation
-- High-volume log organization and comparison
+The free 1.0.0 candidate is prepared locally for owner review and **has not been published**. The current [0.9.1 download](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo) is still the older five-day evaluation.
 
-## Useful participation
+See [Project Status](PROJECT-STATUS.md) for current availability. Feedback should identify the exact version tested so results from an older build are not mistaken for V1 behavior.
 
-A strong testing partner may help by:
+## Useful feedback
 
-- Testing genuine pre-release builds
-- Providing direct and honest written criticism
-- Explaining existing shop workflows and frustrations
-- Identifying missing capabilities that would provide real value
-- Providing properly anonymized sample logs where appropriate
-- Reviewing gasoline and diesel terminology, formats, analysis, and reporting
-- Confirming whether changes produce measurable workflow improvements
+Written feedback is welcome; no meeting or phone call is required. Helpful reports include:
 
-This is not a request for financial support.
+- The Husky version and Windows version.
+- What you were trying to do and the steps that reproduce the issue.
+- What you expected and what actually happened.
+- Whether the problem happens consistently.
+- The log format or export type involved, when relevant.
+- A screenshot or small fictional example, if it helps and is safe to share.
 
-## Recognition
+Report limitations and unsuccessful tests plainly. Praise, promotion, and endorsement are not required.
 
-A testing partner whose sustained, practical feedback genuinely improves Husky will not be expected to later purchase the application it helped shape. I intend to provide that shop with complimentary Professional access when the appropriate production version becomes available.
+## Protect your information
 
-This is not offered in exchange for praise, promotion, public endorsement, or a positive review. Honest criticism is encouraged and is more valuable than approval without evidence. Final testing-partner terms will be documented before production licensing begins.
+Keep backups and copies of original logs. Use copied logs and fictional or test customer information with the legacy 0.9.1 preview.
+
+Review every screenshot, export, support package, and feedback file before sharing it. Remove customer information, identifying vehicle details, credentials, keys, and private business records. Nothing is uploaded automatically.
 
 ## Contact
 
-Send one written message to the [Husky Performance Facebook Page](https://www.facebook.com/HuskyPerformanceApp) with:
+Start with a short written description through the [Husky Performance Facebook Page](https://www.facebook.com/HuskyPerformanceApp). Do not send sensitive files with the initial message.
 
-- Shop or business name
-- Location
-- Website or established social presence
-- Primary services
-- Gasoline, diesel, or both
-- Logging and tuning platforms currently used
-- Workflows of greatest interest
-- Realistic testing availability
+For a potential security concern, follow [Security and Sensitive Data](SECURITY.md).
 
-After that initial qualification message, testing and feedback can remain written and self-paced.
+Husky Performance remains proprietary software with private source code. Free V1 access is independent of participation in testing.
 
-Please do not send customer-identifying records, private credentials, encryption keys, or unreviewed raw data through public GitHub pages.
