@@ -4,20 +4,26 @@ All notable public-facing changes to Husky Performance are recorded here.
 
 For a plain-language overview, start with [Project Status](PROJECT-STATUS.md).
 
-V1 itself is the free public test release. Historical entries retain the facts and release plans recorded at their dates; older paid-release and mandatory outside-testing requirements no longer define V1.
+Husky Performance is publicly released software, free for personal and business use. Reported bugs and issues found through ongoing testing are addressed in updates. Source remains private and proprietary.
 
+## [1.0.2] - 2026-10-11
+
+- Current application and release information consistently present Husky Performance as publicly released software.
+- Free personal and business access continues with private source, no activation and no expiry.
+- Installer changes page includes the updated version notes.
+- Includes performance and stability improvements delivered in 1.0.1.
+- [Installer, portable ZIP, checksums and full notes](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.2).
 ## [1.0.1] - 2026-10-11
 
-- Free public test update for personal and business use; private source, no activation or expiry.
+- Free update for personal and business use; private source, no activation or expiry.
 - Installer setup displays this version's complete changes, fixes and known issues.
 - Improved selection, repeated-click, cancellation and failed-operation recovery across customers, jobs, logs, tunes, reports, injectors and support.
 - Improved graph reduction and search query scheduling while preserving source samples.
 - Safer atomic PDF/CSV exports, injector resend validation, update manifest errors and video attachment cleanup.
-- Local source builds, 113 foundation checks and focused service/offscreen regressions passed. This unsigned release's native installer execution and complete interactive workflow coverage remain untested.
 - [Installer, portable ZIP, checksums and full notes](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.1).
 ## [1.0.0] - 2026-10-02
 
-- Published **1.0.0 Free Public Test Release** for personal and business use, with no purchase, subscription, activation key, or time limit. Use it at your own risk; feedback is voluntary.
+- Published Husky Performance 1.0.0 for personal and business use, with no purchase, subscription, activation key or time limit. Feedback is voluntary.
 - [Download the self-contained Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip). See the [release page](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0) for checksums, instructions, and known limitations.
 - Improved import/save behavior, handling of source changes during review, time-axis and unit fidelity, comparison compatibility, and report/export consistency and privacy.
 - This supersedes earlier qualified-business feedback holds, paid production licensing plans, and complimentary Professional-access offers. Source code remains private and proprietary.
