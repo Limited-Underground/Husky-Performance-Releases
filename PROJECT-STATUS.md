@@ -1,6 +1,6 @@
 # Husky Performance — Project Status
 
-Last updated: October 2, 2026
+Last updated: October 11, 2026
 
 ## V1 is the free public test release
 
@@ -12,7 +12,7 @@ The earlier mandatory qualified-business feedback hold and paid production licen
 
 ## What can be downloaded now
 
-The newest public download is **[1.0.0 Free Public Test Release](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0)**, published October 2, 2026. [Download the self-contained Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip). The release page provides the package checksums and known limitations.
+The newest public download is **[1.0.1 Free Public Test Release](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.1)**, published October 11, 2026. [Download the self-contained Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.1/Husky-1.0.1-Public-Demonstration-Preview-win-x64.zip). The release page provides the package checksums and known limitations.
 
 The older **[0.9.1 Public Demonstration Preview](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo)**, published August 9, 2026, remains available as a legacy release.
 
@@ -22,13 +22,13 @@ For this older preview, continue to use copied logs and fictional or test custom
 
 ## Current V1 release
 
-The free **[1.0.0 public test release](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0) is now published**. It has no purchase, subscription, activation key, or expiry.
+The free **[1.0.1 public test release](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.1) is now published**. It has no purchase, subscription, activation key, or expiry.
 
 Local checks have covered import and saved-log behavior, comparison compatibility, report output and privacy, backup and recovery services, package integrity, and portable startup. Recent stability fixes address import/save state, source changes during review, time-axis and unit fidelity, and stale comparison/export results.
 
 These checks do not establish defect-free operation or compatibility with every computer and log format. Review of normal on-screen workflows and verification of the current Windows installer remain incomplete. Those limitations are disclosed with this test release; user feedback will help identify issues in everyday use.
 
-The 1.0.0 release page identifies the free V1 downloads and their checksums. Existing 0.9.1 files remain unchanged legacy evaluations.
+The 1.0.1 release page identifies the free V1 downloads and their checksums. Existing 0.9.1 files remain unchanged legacy evaluations.
 
 ## Feedback after release
 
@@ -41,4 +41,5 @@ See [Feedback and Testing](TESTING-PARTNERS.md). Start with a description and re
 This page describes the public release direction and available downloads. Historical changelog and release entries retain the facts about their original packages; their older paid-release and mandatory outside-testing requirements no longer define V1.
 
 The source remains private and proprietary. Free distribution does not grant an open-source license. New builds will be identified separately rather than relabeling existing downloads.
+
 

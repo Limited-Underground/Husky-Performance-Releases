@@ -6,6 +6,15 @@ For a plain-language overview, start with [Project Status](PROJECT-STATUS.md).
 
 V1 itself is the free public test release. Historical entries retain the facts and release plans recorded at their dates; older paid-release and mandatory outside-testing requirements no longer define V1.
 
+## [1.0.1] - 2026-10-11
+
+- Free public test update for personal and business use; private source, no activation or expiry.
+- Installer setup displays this version's complete changes, fixes and known issues.
+- Improved selection, repeated-click, cancellation and failed-operation recovery across customers, jobs, logs, tunes, reports, injectors and support.
+- Improved graph reduction and search query scheduling while preserving source samples.
+- Safer atomic PDF/CSV exports, injector resend validation, update manifest errors and video attachment cleanup.
+- Local source builds, 113 foundation checks and focused service/offscreen regressions passed. This unsigned release's native installer execution and complete interactive workflow coverage remain untested.
+- [Installer, portable ZIP, checksums and full notes](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.1).
 ## [1.0.0] - 2026-10-02
 
 - Published **1.0.0 Free Public Test Release** for personal and business use, with no purchase, subscription, activation key, or time limit. Use it at your own risk; feedback is voluntary.
@@ -327,3 +336,4 @@ The dated notes below are preserved from earlier development. Their references t
 [0.9.1]: https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo
 [0.9.0]: https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.0-public-demo
 [0.8.99]: https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.8.99-public-demo
+

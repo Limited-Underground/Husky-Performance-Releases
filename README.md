@@ -4,12 +4,12 @@ This repository is the official public download and release-information location
 
 > **Free V1 public test release:** Husky Performance V1 is free for personal and business use, with no purchase, subscription, activation key, or time limit. V1 itself is the test release. Use it at your own risk; real-world feedback will help improve it.
 >
-> **Available now — October 2, 2026:** [Download the free 1.0.0 Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip), or read the [release notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0). The older 0.9.1 files remain available as a legacy five-day evaluation; their expiry is unchanged.
+> **Available now — October 11, 2026:** [Download the free 1.0.1 Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.1/Husky-1.0.1-Public-Demonstration-Preview-win-x64.zip), or read the [release notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.1). The older 0.9.1 files remain available as a legacy five-day evaluation; their expiry is unchanged.
 
 ## Start here
 
-- **[Download free V1: 1.0.0](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip)** — Windows x64 ZIP
-- **[Release notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0)** — package information and known limitations
+- **[Download free V1: 1.0.1](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.1/Husky-1.0.1-Public-Demonstration-Preview-win-x64.zip)** — Windows x64 ZIP
+- **[Release notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.1)** — package information and known limitations
 - **[Project Status](PROJECT-STATUS.md)** — the free V1 release and current limitations
 - **[Available legacy preview: 0.9.1](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v0.9.1-public-demo)** — the older five-day Public Demonstration Preview
 - **[Public Changelog](CHANGELOG.md)** — current direction and historical release contents
@@ -25,9 +25,9 @@ This direction supersedes earlier statements about a mandatory qualified-busines
 
 V1 remains proprietary software with private source code. Free use does not make this an open-source repository.
 
-## Free 1.0.0 download
+## Free 1.0.1 download
 
-[Download the Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.0/Husky-1.0.0-Public-Demonstration-Preview-win-x64.zip). It is self-contained; no separate .NET or PowerShell installation is required. Follow the included instructions and compare the download with the checksum published on the [1.0.0 release page](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.0).
+[Download the Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.1/Husky-1.0.1-Public-Demonstration-Preview-win-x64.zip). It is self-contained; no separate .NET or PowerShell installation is required. Follow the included instructions and compare the download with the checksum published on the [1.0.1 release page](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.1).
 
 This is unsigned test software. Windows may show an unknown-publisher warning. Keep backups and copies of your logs, and review the release notes for current limitations before use.
 
@@ -80,4 +80,5 @@ Husky Performance is proprietary software. No open-source license is granted by 
 - [Changelog](CHANGELOG.md)
 - [Feedback and Testing](TESTING-PARTNERS.md)
 - [Facebook](https://www.facebook.com/HuskyPerformanceApp)
+
 
