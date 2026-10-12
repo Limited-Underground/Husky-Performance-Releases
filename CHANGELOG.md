@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 All notable public-facing changes to Husky Performance are recorded here.
 

@@ -1,12 +1,12 @@
-# Husky Performance
+﻿# Husky Performance
 
 Husky Performance is publicly released, full working Windows software for automotive log analysis and related shop workflows. It is free for personal and business use, with no purchase, subscription, activation key or expiry.
 
-## Download 1.0.2
+## Download 1.0.3
 
-- [Windows x64 installer](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.2/Husky-1.0.2-win-x64.msi)
-- [Portable Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.2/Husky-1.0.2-win-x64.zip)
-- [Version notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.2)
+- [Windows x64 installer](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.msi)
+- [Portable Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.zip)
+- [Version notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.3)
 
 The application includes its Windows x64 runtime; no separate .NET or PowerShell installation is required. For portable use, extract the complete ZIP and run VehicleData.Desktop.exe. Keep Husky.Maintenance.exe with the application for Recovery & Rollback.
 

@@ -1,12 +1,12 @@
-# Husky Performance — Feedback
+﻿# Husky Performance — Feedback
 
-Updated: October 11, 2026
+Updated: October 12, 2026
 
 Husky Performance is publicly released software, free for personal and business use. Feedback is welcome from anyone and is voluntary. Free access does not require joining a program or providing positive reviews.
 
 ## Current release
 
-[Husky Performance 1.0.2](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.2): [Windows x64 installer](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.2/Husky-1.0.2-win-x64.msi) or [portable ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.2/Husky-1.0.2-win-x64.zip). Include the exact version used when reporting an issue.
+[Husky Performance 1.0.3](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.3): [Windows x64 installer](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.msi) or [portable ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.zip). Include the exact version used when reporting an issue.
 
 ## Useful feedback
 
