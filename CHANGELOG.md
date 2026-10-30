@@ -6,6 +6,15 @@ For a plain-language overview, start with [Project Status](PROJECT-STATUS.md).
 
 Husky Performance is publicly released software, free for personal and business use. Reported bugs and issues found through ongoing testing are addressed in updates. Source remains private and proprietary.
 
+## [1.0.3] - 2026-10-12
+
+- Published the free Stable 1.0.3 Windows x64 MSI and portable ZIP; source remains private, with no activation or expiry.
+- Improved CSV import feedback/cancellation and bounded timeline handling; fixed metadata delimiters, split UTF-8, backward/overflowing timestamps and oversized expansion refusal.
+- Preserved selections, filters and intended save values during background work; fixed stale analysis results, export failure/retry handling and shop/tune/injector workflow state.
+- Bound update checksum/payload validation to one file handle and rejected invalid ZIPs; backup exports refuse destinations that could overwrite protected library/key/SQLite files, including directory aliases.
+- No new core schema migration (schema 13). Packages remain unsigned; explicit time-unit/comparison and ambiguous CSV round-trip limitations remain documented. Existing verified-backup and compatible rollback precautions still apply.
+- [Published release notes, downloads, checksums and complete known limitations](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.3). This entry records the existing release; it does not claim new package testing or a later private-source release.
+
 ## [1.0.2] - 2026-10-11
 
 - Current application and release information consistently present Husky Performance as publicly released software.
