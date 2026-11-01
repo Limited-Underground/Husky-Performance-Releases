@@ -1,12 +1,23 @@
 ﻿# Husky Performance — Feedback
 
-Updated: October 12, 2026
+Updated: November 1, 2026
 
 Husky Performance is publicly released software, free for personal and business use. Feedback is welcome from anyone and is voluntary. Free access does not require joining a program or providing positive reviews.
 
-## Current release
+<!-- current-release:start -->
+## Current release: Husky Performance 1.0.4
 
-[Husky Performance 1.0.3](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.3): [Windows x64 installer](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.msi) or [portable ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.zip). Include the exact version used when reporting an issue.
+- [Portable Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip)
+- [ZIP SHA-256 checksum file](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip.sha256)
+- [Release notes and known limits](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.4)
+
+ZIP SHA-256: `B95504BF0D2CBEE05C80C45E17EED899834C81728AABC2A56D5CAAC7D34CAFB4`
+
+**Installer:** No MSI is published for 1.0.4. Fresh-install, upgrade and uninstall qualification remain pending; use the portable ZIP.
+
+Unsigned software; Windows may show publisher or reputation warnings. Free for personal and business use, with no activation or expiry.
+<!-- current-release:end -->
+
 
 ## Useful feedback
 
