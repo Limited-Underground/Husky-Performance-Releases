@@ -1,5 +1,7 @@
 name: Current release documentation
 on:
+  pull_request:
+    branches: [main]
   release:
     types: [published]
   push:
@@ -8,7 +10,21 @@ on:
 permissions:
   contents: read
 jobs:
+  pr-check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate proposed PR documentation without writing
+        run: python tools/sync-release.py
   check:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
