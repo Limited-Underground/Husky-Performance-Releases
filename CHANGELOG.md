@@ -6,6 +6,20 @@ For a plain-language overview, start with [Project Status](PROJECT-STATUS.md).
 
 Husky Performance is publicly released software, free for personal and business use. Reported bugs and issues found through ongoing testing are addressed in updates. Source remains private and proprietary.
 
+<!-- current-release:start -->
+## Current release: Husky Performance 1.0.4
+
+- [Portable Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip)
+- [ZIP SHA-256 checksum file](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip.sha256)
+- [Release notes and known limits](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.4)
+
+ZIP SHA-256: `B95504BF0D2CBEE05C80C45E17EED899834C81728AABC2A56D5CAAC7D34CAFB4`
+
+**Installer:** No MSI is published for 1.0.4. Fresh-install, upgrade and uninstall qualification remain pending; use the portable ZIP.
+
+Unsigned software; Windows may show publisher or reputation warnings. Free for personal and business use, with no activation or expiry.
+<!-- current-release:end -->
+
 ## [1.0.2] - 2026-10-11
 
 - Current application and release information consistently present Husky Performance as publicly released software.

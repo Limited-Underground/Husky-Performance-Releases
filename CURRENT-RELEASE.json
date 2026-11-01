@@ -1,0 +1,10 @@
+{
+  "version": "1.0.4",
+  "tag": "v1.0.4",
+  "releaseUrl": "https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.4",
+  "portableUrl": "https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip",
+  "checksumUrl": "https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip.sha256",
+  "sha256": "B95504BF0D2CBEE05C80C45E17EED899834C81728AABC2A56D5CAAC7D34CAFB4",
+  "installerUrl": null,
+  "unsigned": true
+}

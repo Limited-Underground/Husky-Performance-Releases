@@ -2,11 +2,19 @@
 
 Husky Performance is publicly released, full working Windows software for automotive log analysis and related shop workflows. It is free for personal and business use, with no purchase, subscription, activation key or expiry.
 
-## Download 1.0.3
+<!-- current-release:start -->
+## Current release: Husky Performance 1.0.4
 
-- [Windows x64 installer](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.msi)
-- [Portable Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.3/Husky-1.0.3-win-x64.zip)
-- [Version notes and checksums](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.3)
+- [Portable Windows x64 ZIP](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip)
+- [ZIP SHA-256 checksum file](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/download/v1.0.4/Husky-1.0.4-win-x64.zip.sha256)
+- [Release notes and known limits](https://github.com/Limited-Underground/Husky-Performance-Releases/releases/tag/v1.0.4)
+
+ZIP SHA-256: `B95504BF0D2CBEE05C80C45E17EED899834C81728AABC2A56D5CAAC7D34CAFB4`
+
+**Installer:** No MSI is published for 1.0.4. Fresh-install, upgrade and uninstall qualification remain pending; use the portable ZIP.
+
+Unsigned software; Windows may show publisher or reputation warnings. Free for personal and business use, with no activation or expiry.
+<!-- current-release:end -->
 
 The application includes its Windows x64 runtime; no separate .NET or PowerShell installation is required. For portable use, extract the complete ZIP and run VehicleData.Desktop.exe. Keep Husky.Maintenance.exe with the application for Recovery & Rollback.
 
